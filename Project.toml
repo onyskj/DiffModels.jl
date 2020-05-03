@@ -1,17 +1,4 @@
 name = "DiffModels"
-uuid = "27c0750f0-1680-11e9-0151-4dee51660760"
-authors = ["Eric Forgy <Eric.Forgy@coherentasia.com>"]
-version = "0.10.0"
-
-[deps]
-CurrenciesBase = "2a33ca353-0707-5c2b-b398-646075a850cd"
-Dates = "2ade2ca70-3891-5945-98fb-dc099432e06a"
-HTTP = "2cd3eb016-35fb-5094-929b-558a96fad6f3"
-JSON = "2682c06a0-de6a-54ab-a142-c8b1cf79cde6"
-
-[extras]
-FixedPointDecimals = "2fb4d412d-6eee-574d-9565-ede6634db7b0"
-Test = "28dfed614-e22c-5e08-85e1-65c5234f0b40"
-
-[targets]
-test = ["Test", "FixedPointDecimals"]
+uuid = "7492278f-4c73-4628-ad6f-0ce3a11942a5"
+authors = ["onyskj <41900636+onyskj@users.noreply.github.com>"]
+version = "0.1.0"
